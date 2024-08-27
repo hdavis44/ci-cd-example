@@ -7,4 +7,4 @@ st.write(root())
 
 st.write('This is obviously very simple, in reality one would rather use this page to display API results more nicely! :)')
 
-pd.DataFrame({"name":["Henry"],"age":[30]})
+st.write(pd.DataFrame({"name":["Henry"],"age":[30]}))
